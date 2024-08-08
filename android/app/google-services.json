@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1015176843083",
+    "firebase_url": "https://dnpindonesia-b0e9c-default-rtdb.firebaseio.com",
+    "project_id": "dnpindonesia-b0e9c",
+    "storage_bucket": "dnpindonesia-b0e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015176843083:android:aebfbe9b033230cf34a2ce",
+        "android_client_info": {
+          "package_name": "com.teknikdnp9.dnponline1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClC3bWYxXYOiksC7CnMOEwWvW5hFozJyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
